@@ -1,0 +1,9 @@
+# rundata.db
+
+**Svenska.** `rundata.db` är databasen över runinskrifter som appen Runverket använder (SQLite). Den bygger på Samnordisk runtextdatabas, Uppsala universitet (http://www.nordiska.uu.se/forskn/samnord.htm), databasen 2014 med tabellen från 2018, och är en bearbetad version av den: runorna är återgivna ur translittereringen, lägena är omräknade till WGS 84 och de svenska översättningarna (kolumnen `sv`) är gjorda av en AI (Claude) och inte granskade av en människa. Den är inte Samnordisk runtextdatabas och ska inte kallas så.
+
+Databasen erbjuds under **Open Database License 1.0** (https://opendatacommons.org/licenses/odbl/1-0/) och dess innehåll under **Database Contents License 1.0** (https://opendatacommons.org/licenses/dbcl/1-0/), som Samnordisk runtextdatabas. Den som använder eller bearbetar den ska ange att den bygger på Samnordisk runtextdatabas och erbjuda sina bearbetningar under samma licens.
+
+**English.** `rundata.db` is the database of runic inscriptions the Runverket app uses (SQLite). It is based on the Scandinavian Runic-text Database (Samnordisk runtextdatabas), Uppsala University (http://www.nordiska.uu.se/forskn/samnord.htm), the 2014 database with the 2018 table, and is a modified version of it: the runes are rendered from the transliteration, the positions converted to WGS 84, and the Swedish translations (the `sv` column) made by an AI (Claude) and not reviewed by a person. It is not the Scandinavian Runic-text Database and is not to be called so.
+
+The database is offered under the **Open Database License 1.0** and its contents under the **Database Contents License 1.0**, as the Scandinavian Runic-text Database is. Whoever uses or adapts it is to say that it is based on the Scandinavian Runic-text Database and offer their adaptations under the same licence.
